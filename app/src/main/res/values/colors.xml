@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sunsetRed">#E95045</color>
+    <color name="sunriseYellow">#ECD857</color>
+    <color name="lavender">#5A5DAB</color>
+    <color name="deepSeaBlue">#0859AB</color>
+    <color name="darkCyan">#0A90A5</color>
+    <color name="lightCyan">#86D0DC</color>
+    <color name="skyBlue">#A2DFF2</color>
+    <color name="androidGreen">#60FF80</color>
+    <color name="pink">#DC86DC</color>
+</resources>

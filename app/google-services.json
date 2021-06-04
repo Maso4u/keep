@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620835126868",
+    "project_id": "keep-25170",
+    "storage_bucket": "keep-25170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620835126868:android:c5da45bd9fea3d73bab7c1",
+        "android_client_info": {
+          "package_name": "com.pepeta.keep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620835126868-bqvqnhjm9ed006mafepvcmcdfb2ljvgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffvX4r5DSQPxxZE6W-YMm27E72Yv24CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620835126868-bqvqnhjm9ed006mafepvcmcdfb2ljvgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

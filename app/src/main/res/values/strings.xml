@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keep</string>
+    <string name="signIn_prompt">Already have an account? Sign In</string>
+    <string name="signUp_prompt">Don\'t have an account? Register</string>
+    <string name="err_field_empty">This field can\'t be empty</string>
+    <string name="err_email_format">Please enter valid email address</string>
+    <string name="err_weak_pw">Password too weak</string>
+</resources>
